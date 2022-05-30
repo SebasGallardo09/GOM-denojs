@@ -1,0 +1,11 @@
+{
+    "imports": {
+        "datetime": "https://deno.land/std@0.141.0/datetime/mod.ts",
+        "dotenv": "https://deno.land/std@0.141.0/dotenv/mod.ts",
+        "loadEnv": "https://deno.land/std@0.141.0/dotenv/load.ts",
+        "serverDeno": "https://deno.land/std/http/server.ts",
+        "path-to-regexp": "https://raw.githubusercontent.com/pillarjs/path-to-regexp/master/src/index.ts",
+        "statusHttp": "https://deno.land/std@0.141.0/http/http_status.ts",
+        "configs/": "./app/config/"
+    }
+  }
